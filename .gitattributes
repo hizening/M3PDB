@@ -1,0 +1,15 @@
+annotation_system/llmware/examples/Use_Cases/lecture_tool/sample_audio_files/01.[[:space:]]Course[[:space:]]Introduction[[:space:]]Rome39;s[[:space:]]Greatness[[:space:]]and[[:space:]]First[[:space:]]Crises-YTConverter.app.wav filter=lfs diff=lfs merge=lfs -text
+annotation_system/llmware/examples/Use_Cases/lecture_tool/sample_audio_files/MIT[[:space:]]Introduction[[:space:]]to[[:space:]]Python.wav filter=lfs diff=lfs merge=lfs -text
+annotation_system/llmware/llmware/lib/gguf/gguf_linux_cuda/libggml-cuda.so filter=lfs diff=lfs merge=lfs -text
+annotation_system/llmware/llmware/lib/gguf/gguf_win_cuda/ggml-cuda.dll filter=lfs diff=lfs merge=lfs -text
+annotation_system/llmware/llmware/lib/whisper/libwhisper_linux_cuda_155.so filter=lfs diff=lfs merge=lfs -text
+annotation_system/llmware/wheel_archives/llmware-0.3.10-py3-none-any.whl filter=lfs diff=lfs merge=lfs -text
+annotation_system/llmware/wheel_archives/llmware-0.3.9-py3-none-any.whl filter=lfs diff=lfs merge=lfs -text
+annotation_system/llmware/wheel_archives/llmware-0.4.1-py3-none-any.whl filter=lfs diff=lfs merge=lfs -text
+annotation_system/llmware/wheel_archives/llmware-0.4.2-py3-none-any.whl filter=lfs diff=lfs merge=lfs -text
+multi-model_prompt_registration/facetts/facetts_lrs3.pt filter=lfs diff=lfs merge=lfs -text
+multi-model_prompt_registration/facetts/hifigan-67926ec6.pt filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.whl filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
