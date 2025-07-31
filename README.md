@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>M<sup>3</sup>PDB</title>
-  <style>
-    body {
-      background-color: #FFFFFF; /* Sets the background color to white */
-    }
-  </style>
-</head>
-<body>
-  <!-- Your content goes here -->
-  <h3 align="center">M<sup>3</sup>PDB</h3>
-  <!-- Rest of your content -->
-</body>
-</html>
 
+
+# M<sup>3</sup>PDB</h3>
 
 <!-- PROJECT SHIELDS -->
 
@@ -125,9 +109,10 @@ filetree
 
 ###### **Multimodal Data Preprocessing**
 <p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/"> 
-    <img src="images\appendixA.2.png" alt="Logo" style="width: auto; height: auto;">
+  <a href="https://github.com/shaojintian/Best_README_template/">
+    <img src="images\appendixA.2.png" alt="Logo" style="width: auto; height: auto; background-color: #FFFFFF;">
   </a>
+</p>
 
 1.Run the code below to achieve audio-video separation.
 ```sh
