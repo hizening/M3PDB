@@ -109,10 +109,9 @@ filetree
 
 ###### **Multimodal Data Preprocessing**
 <p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="images\appendixA.2.png" alt="Logo" style="width: auto; height: auto; background-color: #FFFFFF;">
+  <a href="https://github.com/shaojintian/Best_README_template/"> 
+    <img src="images\appendixA.2white.png" alt="Logo" style="width: auto; height: auto;">
   </a>
-</p>
 
 1.Run the code below to achieve audio-video separation.
 ```sh
@@ -146,7 +145,7 @@ For more detailed information, please read the `/multimodal_data_preprocessing/r
 ###### **Annotation System**
 <p align="center">
   <a href="https://github.com/shaojintian/Best_README_template/"> 
-    <img src="images\fig_RAG.png" alt="Logo" style="width: auto; height: auto;">
+    <img src="images\fig_RAGwhite.png" alt="Logo" style="height: 100px; height: auto;">
   </a>
 
 For more detailed information, please read the `/annotation_system/readme.md`.
@@ -154,7 +153,7 @@ For more detailed information, please read the `/annotation_system/readme.md`.
 ###### **Unseen Language Annotation**
 <p align="center">
   <a href="https://github.com/shaojintian/Best_README_template/"> 
-    <img src="images\unseenlanguage.png" alt="Logo" style="width: auto; height: auto;">
+    <img src="images\unseenlanguage.png" alt="Logo" style="height: 100px; height: auto;">
   </a>
 
 1.Run the code below to generate speech.
@@ -171,9 +170,10 @@ For more detailed information, please read the `/unseen_language_annotation/read
 
 ###### **Multi-model Prompt Registration**
 <p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/"> 
-    <img src="images\translate_prompt_selection—3.png" alt="Logo" style="width: auto; height: auto;">
+  <a href="https://github.com/shaojintian/Best_README_template/">
+    <img src="images\translate_prompt_selection—3white.png" alt="Logo" style="height: 600px; width: auto;">
   </a>
+</p>
 
 1.Run the code below to match and register speech similar to the registered speech.
 ```sh
@@ -196,7 +196,7 @@ For more detailed information, please read the `/multi-model_prompt_registration
 ###### **Latency Aware Online Selection**
 <p align="center">
   <a href="https://github.com/shaojintian/Best_README_template/"> 
-    <img src="images\appendixG.png" alt="Logo" style="width: auto; height: auto;">
+    <img src="images\appendixGwhite.png" alt="Logo" style="height: 100px; height: auto;">
   </a>
 
 1.Run the code below to dynamically find the most suitable speech.
@@ -229,11 +229,9 @@ M<sup>3</sup>PDB is released under the [MIT](https://github.com/hizening/M3PDB/b
 ### Acknowledgements
 M<sup>3</sup>PDB contains third-party components and code modified from some open-source repos, including: <br>
 1. datasets
-[Emilia Dataset](https://github.com/open-mmlab/Amphion/tree/main/preprocessors/Emilia), 
+[Emilia Dataset](https://github.com/open-mmlab/Amphion/tree/main/preprocessors/Emilia), [voxceleb](https://huggingface.co/datasets/ProgramComputer/voxceleb), [voxpopuli](https://huggingface.co/datasets/facebook/voxpopuli)
 2. code
-[3D-Speaker](https://github.com/modelscope/3D-Speaker), 
-
-
+[3D-Speaker](https://github.com/modelscope/3D-Speaker), [Side-Profile-Detection](https://github.com/nawafalageel/Side-Profile-Detection), [SenseVoice](https://github.com/FunAudioLLM/SenseVoice), [emotion2vec](https://github.com/ddlBoJack/emotion2vec), [seamless_communication](https://github.com/facebookresearch/seamless_communication), [CosyVoice](https://github.com/FunAudioLLM/CosyVoice), [whisper](https://github.com/openai/whisper), [Imaginary Voice](https://github.com/naver-ai/facetts), [whisper](https://github.com/openai/whisper), [gpt-4o](https://openai.com/zh-Hans-CN/index/gpt-4o-system-card/), [deepface](https://github.com/serengil/deepface), [OSUM](https://github.com/ASLP-lab/OSUM), [XTTS-v2](https://huggingface.co/coqui/XTTS-v2)
 <!-- ## Citations
 If you find this repository useful, please consider giving a star :star: and citation :t-rex::
 ```BibTeX
