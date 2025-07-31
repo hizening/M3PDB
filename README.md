@@ -1,6 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>M<sup>3</sup>PDB</title>
+  <style>
+    body {
+      background-color: #FFFFFF; /* Sets the background color to white */
+    }
+  </style>
+</head>
+<body>
+  <!-- Your content goes here -->
+  <h3 align="center">M<sup>3</sup>PDB</h3>
+  <!-- Rest of your content -->
+</body>
+</html>
 
-
-# M<sup>3</sup>PDB</h3>
 
 <!-- PROJECT SHIELDS -->
 
@@ -223,7 +239,7 @@ If you have any comment or question about M<sup>3</sup>PDB, please contact us by
 - email: zhuboyu@mail.nwpu.edu.cn
 
 ### License
-M<sup>3</sup>PDB is released under the [Apache License 2.0](LICENSE).
+M<sup>3</sup>PDB is released under the [MIT](https://github.com/hizening/M3PDB/blob/main/LICENSE.txt).
 
 ### Acknowledgements
 M<sup>3</sup>PDB contains third-party components and code modified from some open-source repos, including: <br>
