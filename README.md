@@ -223,7 +223,7 @@ If you have any comment or question about M<sup>3</sup>PDB, please contact us by
 - email: zhuboyu@mail.nwpu.edu.cn
 
 ### License
-M<sup>3</sup>PDB is released under the [MIT](https://github.com/hizening/M3PDB/blob/main/LICENSE.txt).
+M<sup>3</sup>PDB is released under the [CC BY-NC-4.0 license](https://github.com/hizening/M3PDB/blob/main/LICENSE.txt).
 
 ### Acknowledgements
 M<sup>3</sup>PDB contains third-party components and code modified from some open-source repos, including: <br>
